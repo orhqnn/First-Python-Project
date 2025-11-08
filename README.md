@@ -2,7 +2,8 @@
 
 ## Python Calculator
 
-A simple command-line Python calculator that performs the four basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+A simple command-line Python calculator in German, that performs the four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 ### Features
 
@@ -13,7 +14,7 @@ A simple command-line Python calculator that performs the four basic arithmetic 
 
 ### How to Use
 
-1. Run the script `taschenrechner.py`
+1. Run the script `calculator.py`
 2. Choose an operation by typing 1, 2, 3, or 4
 3. Enter the numbers when prompted
 4. See the result
