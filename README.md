@@ -14,7 +14,7 @@ A simple command-line Python calculator in German, that performs the four basic 
 
 ### How to Use
 
-1. Run the script `calculator.py`
+1. Run the script `calculator_project1.py`
 2. Choose an operation by typing 1, 2, 3, or 4
 3. Enter the numbers when prompted
 4. See the result
